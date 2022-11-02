@@ -9,7 +9,8 @@ Reading Pdf and Inserting into MySQL Table Using Power of python libraries.
 
 ## Purpose
 - Reading Rainfall Data from IMD [Website][imdurl]
-- mysql.connector
+- Automate saving Data to Mysql using cron job
+- Compare Rainfall Data of Diff Days
 
 ## License
 
